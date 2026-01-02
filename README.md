@@ -1,4 +1,4 @@
 # demo2
 this is my first repo.
 <br>
-Author - Pratik Kisave
+Author - Pratik (pp)
